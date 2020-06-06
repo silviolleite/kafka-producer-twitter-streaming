@@ -1,11 +1,4 @@
-# IDEs
-
 .idea/
-
-# Environment file
-
 *.env
-
-# venv
-
 .venv
+*.pyc
